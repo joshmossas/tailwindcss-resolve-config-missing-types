@@ -1,0 +1,16 @@
+{
+  "name": "tailwindcss-resolve-config-missing-types",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "ts-node src/index.ts"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "tailwindcss": "^3.1.6",
+    "ts-node": "^10.9.1"
+  }
+}
